@@ -44,7 +44,7 @@ Welcome to the virtual hands on Lab of April 29. 2025. You all have been assigne
 Search for your first name and the initial of your last name and memorize the assigned user name.
 
 <br/>
-<img src="images/partlistsep.png" width="60%">
+<img src="images/partjan.png" width="60%">
 <br/>
 <br/>
 
