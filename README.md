@@ -54,7 +54,7 @@ your given user name and password
 ![cdptenantmarketing](images/cdptenantmarketing.png)
 
 In case of success you should get to this home page of the CDP tenant:
-![cdphomepage](images/cdphomepage.png)
+![cdphomepage](images/homescreen.png)
 
 
 #### Initialize the Project
@@ -95,7 +95,7 @@ In the Configure Project screen, change the HIVE_TABLE to have a unique suffix. 
 | HIVE_TABLE | churn_protype_YOUR UNIQUE VALUE |
  
 <br/>
-<img src="images/projectstart.png" width="70%">
+<img src="images/configproject.png" width="70%">
  
  <br/>
 - Click **Launch Project**
@@ -111,7 +111,7 @@ Sessions allow you to perform actions such as run R, Scala or Python code. They 
 - Click on *Overview* in the side panel
 - Click *New Session* in the top right corner
 <br/>
-<img src="images/startnewsession1.png" width="70%">
+<img src="images/startnewsession.png" width="70%">
 <br/>
 
 
@@ -165,7 +165,7 @@ In a real-life scenario, the underlying data may be shifting from week to week o
 - Scroll to the bottom of the page and click *Create Job*
 
 <br/>
-<img src="images/job12.png" width="70%">
+<img src="images/newjob.png" width="70%">
 <br/>
 
 Optionally, you can also manually trigger your job by clicking the *Run*   action button on the right.
@@ -321,7 +321,7 @@ This JSON is a set of key value pairs representing a customer’s attributes. Fo
 ```
 
 <br/>
-<img src="images/depmodel1.png" width="70%">
+<img src="images/deploymodel.png" width="70%">
 <br/>
 
 - Scroll to the bottom of the page and click *Deploy Model*
