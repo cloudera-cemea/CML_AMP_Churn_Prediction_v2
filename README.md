@@ -162,13 +162,13 @@ In a real-life scenario, the underlying data may be shifting from week to week o
 - Select Recurring as the Schedule from the dropdown and provide daily time for the job to run
 
 <br/>
-<img src="images/job1.png" width="70%">
+<img src="images/newjob.png" width="70%">
 <br/>
 
 - Scroll to the bottom of the page and click *Create Job*
 
 <br/>
-<img src="images/newjob.png" width="70%">
+<img src="images/job12.png" width="70%">
 <br/>
 
 Optionally, you can also manually trigger your job by clicking the *Run*   action button on the right.
