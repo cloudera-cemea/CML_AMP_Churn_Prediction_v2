@@ -575,3 +575,9 @@ In this workshop you created an end to end project to support a Machine Learning
 - You explored the foundations of a basic ML Ops pipeline to easily retrain, monitor, and reproduce your model in production. With the Cloudera AI Models interface you unit tested and increased model observability.
 - Finally, you used CDP SDX to log and visualize Model Metadata and Lineage.
 
+## Links
+
+Following github project  provides a more detailed example on using mlflow within cloudera AI:
+
+ [mlops](https://github.com/cloudera-cemea/mlops-mlflow/tree/master)
+
